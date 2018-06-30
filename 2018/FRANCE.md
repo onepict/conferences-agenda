@@ -1,0 +1,96 @@
+##JUIN
+
+###Web2Day
+- 5 - 6 - 7 juin 2018
+- Nantes, France
+- [Site web](https://web2day.co/)
+- [Programme](https://web2day.co/programme/)
+
+###Agile France
+- 14 - 15 juin
+- Paris, France
+- [Site web](http://2018.conf.agile-france.org/)
+- [Programme](https://joind.in/event/confrence-agile-france-2018)
+
+###La Product Conf
+- 21 juin 2018
+- Paris, France
+- [Site web](http://laproductconf.com/)
+- [Programme](http://laproductconf.com/wp-content/uploads/2018/06/programme_lpc.pdf)
+
+---
+
+##AOUT
+
+###Agile Lean Europe
+- 22 - 24 août 2018
+- Zürich, Switzerland
+- [Site web](https://agilelean.eu/)
+- [Lien CFP](https://docs.google.com/forms/d/e/1FAIpQLSf3vn1Uj1tPR_ws11wUr7Q642P84hgrLkqLsktby0eeOAPAuw/viewform)
+
+---
+
+##SEPTEMBRE
+
+###Agile Games Alpes
+- 14 - 15 septembre 2018
+- proche Grenoble, France
+- [Site web](http://grenoble.clubagilerhonealpes.org/agile-game-alpes)
+
+###Agile Pays Basque
+- 21 - 22 septembre 2018
+- Bidart, France
+- [Site web](https://agile-paysbasque.fr/)
+- [Lien CFP](https://agile-paysbasque.fr/cfp/)
+
+###Agile Rock Conference
+- 21 - 22 septembre 2018
+- Kiev, Ukraine
+- [Site web](http://www.agilerockconference.com/)
+- [Lien Speakers](http://www.agilerockconference.com/#speakers)
+
+###Agile En Seine
+- 25 septembre 2018
+- Paris, France
+- [Site web](https://agileenseine.com/)
+
+###VoxxedDays Microservices 2018
+- 29 - 31 octobre 2018
+- Paris, France
+- [Site web](https://voxxeddays.com/microservices/)
+
+---
+
+##NOVEMBRE
+
+###Agile Tour Lille
+- 8 - 9 novembre 2018
+- Lille, France
+- [Site web](http://2018.agiletour-lille.org/)
+- [Lien CFP](https://docs.google.com/forms/d/e/1FAIpQLSfot5kBfQdEjTB0Qb1nL7P2TL8DyW1ihSOVfH8V1GobDJUXIg/viewform)
+
+###Agile Grenoble
+- 14 - 16 novembre 2018
+- Grenoble, France
+- [Site web](http://agile-grenoble.org/)
+- [Lien CFP](https://docs.google.com/forms/d/e/1FAIpQLSdloKqsexHhdD0eJMj6lZyqiFdVldXczNQ7ZTE9LxOQpXLWPA/viewform)
+
+###Agile Tour Rennes
+- 23 - 24 novembre 2018
+- Rennes, France
+- [Site web](http://agiletour.agilerennes.org/)
+- [Lien CFP](https://app.klaxoon.com/userspace/networks/appel-a-propositions-agile-tour-rennes-2018)
+
+###FlowCon
+- 27 - 28 novembre
+- Paris, France
+- [Site web](http://flowcon.fr/)
+- [Lien CFP](https://www.papercall.io/flowcon)
+
+---
+
+###
+-
+-
+- [Site web]()
+- [Lien CFP]()
