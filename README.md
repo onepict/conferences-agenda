@@ -9,3 +9,4 @@ Pour trouver des conférences :
 - https://sched.com/directory
 - https://joind.in/
 - http://www.seecfp.com/
+- https://airtable.com/shrQtsMYUlMMQSZ2P/tblAfvlQwnxHzUPTc
