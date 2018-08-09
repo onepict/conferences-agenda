@@ -10,3 +10,4 @@ Pour trouver des conférences :
 - https://joind.in/
 - http://www.seecfp.com/
 - https://airtable.com/shrQtsMYUlMMQSZ2P/tblAfvlQwnxHzUPTc
+- http://cfpalerts.info/
